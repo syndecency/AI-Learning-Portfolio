@@ -1,0 +1,4 @@
+node_modules/
+.env
+polygon_api_key.env
+
